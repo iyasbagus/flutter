@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Color.fromARGB(255, 255, 255, 255),
         appBar: AppBar(
-          title: Text('Biodata Iyas',
+          title: Text('Biodata',
               style: TextStyle(
                 color: Colors.white,
                 fontWeight: FontWeight.w600,
